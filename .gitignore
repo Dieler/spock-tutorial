@@ -1,0 +1,16 @@
+.idea/
+.settings/
+.groovy/
+.sonar/
+*.iml
+*.classpath
+*.project
+bin/
+target/
+log/
+logs/
+local/
+data/
+**/src/test/groovy/META-INF/MANIFEST.MF
+git.properties
+combinedcoverage
